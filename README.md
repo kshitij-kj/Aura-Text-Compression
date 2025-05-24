@@ -1,6 +1,6 @@
 ## Project info
 
-**URL**: https://lovable.dev/projects/4f891bc5-e2df-46e8-8354-24200411d2e8
+**URL**: https://aura-text-compression.vercel.app/
 
 ## How can I edit this code?
 
